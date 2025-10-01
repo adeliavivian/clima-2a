@@ -1,0 +1,13 @@
+.app-container{
+  min-height: 100vh;
+  background: linear-gradient(135deg, rgb(255, 0, 212) 0%, rgb(70, 4, 124) 100%);
+  padding: 32px;
+}
+.content-wrapper{
+  max-width: 768px;
+  margin: 0 auto;
+}
+header{
+  text-align: center;
+  margin-bottom: 32px;
+}
